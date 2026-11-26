@@ -8,7 +8,7 @@ deliverables an AV project engineer would actually hand to a client or GC.
 ## Install
 
 ```
-claude plugin marketplace add AVjarboe/av-pro-skills
+claude plugin marketplace add AVJarboe/av-pro-skills
 claude plugin install av-pro-skills@av-pro-skills
 ```
 
