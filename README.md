@@ -12,7 +12,7 @@ claude plugin marketplace add AVjarboe/av-pro-skills
 claude plugin install av-pro-skills@av-pro-skills
 ```
 
-## Skills (release order)
+## Skills
 
 | Skill | What it produces | Status |
 |---|---|---|
