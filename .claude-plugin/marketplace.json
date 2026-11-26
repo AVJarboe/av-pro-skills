@@ -1,0 +1,12 @@
+{
+  "name": "av-pro-skills",
+  "owner": { "name": "Mike Jarboe" },
+  "description": "Vendor-neutral Claude skills for AV design, documentation and project delivery.",
+  "plugins": [
+    {
+      "name": "av-pro-skills",
+      "source": "./plugins/av-pro-skills",
+      "description": "AV design, documentation, verification and project-delivery skills."
+    }
+  ]
+}
